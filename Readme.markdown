@@ -11,5 +11,6 @@ Simply open a pull request to contribute a new translation or fix. Please read t
 Language             | Code      | Contributor
 ---------------------|-----------|------------
 English              | `en`      | [@soffes](https://github.com/soffes)
+Danish               | `da`      | [@matiasvad](https://github.com/matiasvad)
 
 If you'd like to help translate Shares in your language and currently have a copy, please send <sam@getsharesapp.com> and email with the language you'd like to add and I'll gladly send you a promo code!
