@@ -16,3 +16,4 @@ Language             | Code      | Contributor
 ---------------------|-----------|------------
 English              | `en`      | [@soffes](https://github.com/soffes)
 Danish               | `da`      | [@matiasvad](https://github.com/matiasvad)
+German               | `de`      | [@lmprht](https://github.com/lmprht)
