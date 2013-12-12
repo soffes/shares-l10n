@@ -27,7 +27,7 @@
 "DECIMAL_PLACES" = "Decimalen";
 "HIDE_ARTWORK" = "Verberg Kunstwerk";
 "WELCOME_TITLE" = "Hallo.";
-"WELCOME_MESSAGE" = "Aandelen helpt u bij het bijhouden van uw winsten en verliezen te houden Om te beginnen, voeg wat aandelen die je al hebt gekocht.".;
+"WELCOME_MESSAGE" = "Aandelen helpt u bij het bijhouden van uw winsten en verliezen te houden Om te beginnen, voeg wat aandelen die je al hebt gekocht.";
 "WELCOME_GAINS" = "winsten";
 "WELCOME_LOSSES" = "verliezen";
 "TUTORIAL_TOGGLE" = "Tik het totaal om te schakelen $ &%";
@@ -35,7 +35,7 @@
 "GAIN" = "Gain";
 "LOSS" = "Verlies";
 "STOP" = "Als klap";
-"ERROR_FAILED_TO_UPDATE" = "Kan voorraden updaten Zorg ervoor dat je verbonden bent met het internet.".;
+"ERROR_FAILED_TO_UPDATE" = "Kan voorraden updaten Zorg ervoor dat je verbonden bent met het internet.";
 "TODAY_FORMAT" = "% @ Vandaag";
 "OVERALL_FORMAT" = "% @ Vandaag";
 "TOTAL_VALUE" = "Totale waarde";

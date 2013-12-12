@@ -9,7 +9,7 @@
 "ADD_SHARES" = "Dodaj Akcje";
 "STOCK_PLACEHOLDER" = "Akcja";
 "ADD" = "Dodaj";
-"ADD_HELP_MESSAGE" = "Dodaj kupione akcje. Wprowadź symbol, ilość oraz cenę po jakiej zostały kupione. Jeżeli symbol jest poprawny, zmieni swój kolor na zielony."
+"ADD_HELP_MESSAGE" = "Dodaj kupione akcje. Wprowadź symbol, ilość oraz cenę po jakiej zostały kupione. Jeżeli symbol jest poprawny, zmieni swój kolor na zielony.";
 "OK" = "OK";
 "SYMBOL" = "Symbol";
 "SHARES" = "Akcje";
