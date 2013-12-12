@@ -1,0 +1,69 @@
+/*
+  Localizeable.strings
+  Shares
+
+  Created by Sam Soffes on 12/12/13.
+  Copyright (c) 2013 Nothing Magical. All rights reserved.
+*/
+
+"ADD_SHARES" = "Tilføj aktier";
+
+"STOCK_PLACEHOLDER" = "AKTIE";
+
+"ADD" = "Tilføj";
+"ADD_HELP_MESSAGE" = "Tilføj aktier du har købt. Indtast aktie-symbolet, antallet af aktier og købsprisen. Aktie-symbolet bliver grønt hvis det er genkendt.";
+
+"OK" = "OK";
+
+"SYMBOL" = "Symbol";
+
+"SHARES" = "Aktier";
+
+"PRICE" = "Pris";
+"SWIPE_TO_REMOVE" = "Swipe for at fjerne aktien";
+
+"SETTINGS" = "Indstillinger";
+
+"MARKET_PRICE_MODE" = "Alle priser bliver vist i markedets valuta.";
+
+"PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = "Alle priser bliver vist i %@.";
+
+"CURRENCY_LAST_UPDATED_FORMAT" = "Valutakurser er opdateret for %@ siden.";
+
+"CURRENCY" = "Valutakurser";
+"DISPLAY" = "Visning";
+
+"PRIMARY" = "Primær valuta";
+
+"ALWAYS_USE_PRIMARY" = "Benyt altid primær valuta";
+"PERCENTAGES" = "Procenter";
+"DECIMAL_PLACES" = "Komma placering";
+"HIDE_ARTWORK" = "Skjul billeder";
+
+"WELCOME_TITLE" = "Hejsa.";
+"WELCOME_MESSAGE" = "Shares hjælper dig med at holde styr på dine gevinster og tab. Tilføj nogle aktier for at komme i gang.";
+
+"WELCOME_GAINS" = "gevinster";
+
+"WELCOME_LOSSES" = "tab";
+
+"TUTORIAL_TOGGLE" = "Tryk på total for at skifte mellem $ & %";
+"TUTORIAL_DETAILS" = "Tryk på en aktie for at se detaljer";
+
+"GAIN" = "Gevinst";
+"LOSS" = "Tab";
+
+"DARN" = "Sørens";
+
+"ERROR_FAILED_TO_UPDATE" = "Opdatering af aktier mislykkedes. Tjek at du er forbundet til internettet.";
+
+"TODAY_FORMAT" = "%@ i dag";
+
+"OVERALL_FORMAT" = "%@ i dag";
+
+"TOTAL_VALUE" = "Total værdi";
+"TOTAL_GAIN" = "Total gevinst";
+"TOTAL_LOSS" = "Total tab";
+"CHANGE" = "Ændring";
+"INVESTMENT" = "Investering";
+"VALUE" = "Værdi";
