@@ -1,6 +1,6 @@
-# Shares Strings
+# Shares Localization
 
-This is the localization files used in [Shares](http://getsharesapp.com).
+These are the localization files used in [Shares](http://getsharesapp.com) for iOS. [English](en.lproj/Localizable.strings) is the reference version.
 
 ## Contributing
 
