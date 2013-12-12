@@ -1,0 +1,83 @@
+/* 
+  Localizeable.strings
+  Shares
+
+  Created by Sam Soffes on 12/12/13.
+  Copyright (c) 2013 Nothing Magical. All rights reserved.
+*/
+
+"ADD_SHARES" = "Adicionar Ações";
+
+
+// This is the placeholder for the stock symbol text field in the add screen
+"STOCK_PLACEHOLDER" = "AÇÃO";
+
+"ADD" = "Adicionar";
+"ADD_HELP_MESSAGE" = "Adicione ações para uma empresa que comprou. Entre o símbolo da empresa, número de ações, e o preço no qual as comprou. O símbolo vai se tornar verde se for válido.";
+
+// OK button for alert. Please try to match what Apple does else where in the system.
+"OK" = "OK";
+
+"SYMBOL" = "Símbolo";
+
+// Label for shares of stock. This is not used for the application name, so please translate it :)
+"SHARES" = "Ações";
+
+"PRICE" = "Preço";
+"SWIPE_TO_REMOVE" = "Faça swipe para remover ações.";
+
+// Please try to match what Apple does else where in the system.
+"SETTINGS" = "Ajustes";
+
+"MARKET_PRICE_MODE" = "Todos os preços serão exibidos na moeda do mercado.";
+
+// The `%@` represents where the currency code (i.e. "USD") will be inserted.
+"PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = "Todos os preços serão exibidos em %@.";
+
+// The `%@` represents where the time in words (i.e. "2 minutes") will be inserted. The time is will already be localized.
+"CURRENCY_LAST_UPDATED_FORMAT" = "Taxas de conversão atualizadas %@ atrás.";
+
+"CURRENCY" = "Moeda";
+"DISPLAY" = "Exibir";
+
+// Used to describe the primary currency.
+"PRIMARY" = "Primária";
+
+"ALWAYS_USE_PRIMARY" = "Sempre use a primária";
+"PERCENTAGES" = "Porcentagens";
+"DECIMAL_PLACES" = "Casas Decimais";
+"HIDE_ARTWORK" = "Esconder Imagens";
+
+// An informal welcome
+"WELCOME_TITLE" = "Olá.";
+"WELCOME_MESSAGE" = "Shares te ajuda a organizer os seus ganhos e perdas. Para começar, adicione algumas ações que você já tenha comprado.";
+
+// The word for "gains" in "WELCOME_MESSAGE". It will be highlighted in green. Be sure to only use this word once.
+"WELCOME_GAINS" = "ganhos";
+
+// The word for "losses" in "WELCOME_MESSAGE". It will be highlighted in red. Be sure to only use this word once.
+"WELCOME_LOSSES" = "perdas";
+
+"TUTORIAL_TOGGLE" = "Toque no total para trocar entre $ e %";
+"TUTORIAL_DETAILS" = "Toque uma ação para ver os detalhes";
+
+"GAIN" = "Ganhos";
+"LOSS" = "Perdas";
+
+// Title for error alert.
+"DARN" = "Droga";
+
+"ERROR_FAILED_TO_UPDATE" = "A atualização das ações falhou. Cheque a sua conexão à internet.";
+
+// The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Loss Today".
+"TODAY_FORMAT" = "%@ Hoje";
+
+// The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Overall Today".
+"OVERALL_FORMAT" = "%@ Hoje";
+
+"TOTAL_VALUE" = "Valor Total";
+"TOTAL_GAIN" = "Ganhos Totais";
+"TOTAL_LOSS" = "Perdas Totais";
+"CHANGE" = "Modificar";
+"INVESTMENT" = "Investimento";
+"VALUE" = "Valor";
