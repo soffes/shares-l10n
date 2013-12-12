@@ -1,69 +1,82 @@
-+ / *
-+  Localizeable.strings
-+  Shares
- +
- + Créé par Sam Soffes sur 12.12.13.
- + Copyright (c) 2013 Nothing Magical. Tous droits réservés.
- + * /
- +
- + "ADD_SHARES" = "Ajouter actions";
- +
- + "STOCK_PLACEHOLDER" = "STOCK";
- +
- + "ADD" = "Ajouter";
- + "ADD_HELP_MESSAGE" = ".. Ajouter actions pour un stock que vous avez acheté Entrez le symbole boursier, le nombre d'actions que vous avez achetées, et le prix que vous avez acheté à Le symbole devient vert si c'est valable.";
- +
- + "OK" = "OK";
- +
- + "SYMBOL" = "Symbole";
- +
- + "SHARES" = "Actions";
- +
- + "PRICE" = "Prix";
- + "SWIPE_TO_REMOVE" = "glisser pour enlever actions.";
- +
- + "SETTINGS" = "Paramètres";
- +
- + "MARKET_PRICE_MODE" = "Tous les prix seront affichés dans la devise du marché.";
- +
- + "PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = "Tous les prix seront affichés en% @.";
- +
- + "CURRENCY_LAST_UPDATED_FORMAT" = "taux de conversion mis à jour il ya% @.";
- +
- + "CURRENCY" = "devise";
- + "DISPLAY" = "Affichage";
- +
- + "PRIMARY" = "primaire";
- +
- + "ALWAYS_USE_PRIMARY" = "Toujours utiliser primaire";
- + "POURCENTAGES" = "pourcentages";
- + "DECIMAL_PLACES" = "Décimales";
- + "HIDE_ARTWORK" = "Masquer oeuvre";
- +
- + "WELCOME_TITLE" = "Salut là.";
- + "WELCOME_MESSAGE" = "Actions vous permet de garder une trace de vos gains et pertes Pour commencer, ajouter quelques actions que vous avez déjà achetés.».;
- +
- + "WELCOME_GAINS" = "gains";
- +
- + "WELCOME_LOSSES" = "pertes";
- +
- + "TUTORIAL_TOGGLE" = "Appuyez sur le total pour basculer $ &%";
- + "TUTORIAL_DETAILS" = "Appuyez sur un stock d'obtenir des détails";
- +
- + "GAIN" = "Gain";
- + "LOSS" = "perte";
- +
- + "DARN" = "Darn";
- +
- + "ERROR_FAILED_TO_UPDATE" = "Impossible de mettre à jour les stocks Soyez sûr que vous êtes connecté à Internet.».;
- +
- + "TODAY_FORMAT" = "% @ aujourd'hui";
- +
- + "OVERALL_FORMAT" = "% @ aujourd'hui";
- +
- + "TOTAL_VALUE" = "Valeur totale";
- + "TOTAL_GAIN" = "Total Gain";
- + "TOTAL_LOSS" = "Perte totale»;
- + "CHANGE" = "Modifier";
- + "INVESTMENT" = "investissement";
- + "VALUE" = "valeur";
+/*
+  Localizeable.strings
+  Shares
+
+  Gemaakt door Sam Soffes op 12/12/13.
+  Copyright (c) 2013 Nothing Magical. Alle rechten voorbehouden.
+*/
+
+"ADD_SHARES" = "Aandelen toevoegen";
+
+// This is the placeholder for the stock symbol text field in the add screen
+"STOCK_PLACEHOLDER" = "voorraad";
+
+"ADD" = "Toevoegen";
+"ADD_HELP_MESSAGE" = "aandelen toevoegen voor een voorraad die je hebt gekocht Voer de voorraad symbool, het aantal aandelen dat u hebt aangeschaft, en prijs je ze bij Het symbool gekocht wordt groen als het geldig is...";
+
+// OK button for alert. Please try to match what Apple does else where in the system.
+"OK" = "OK";
+
+"SYMBOL" = "symbool";
+
+// Label for shares of stock. This is not used for the application name, so please translate it :)
+"Shares" = "Aandelen";
+
+"PRICE" = "Prijs";
+"SWIPE_TO_REMOVE" = "Swipe om aandelen te verwijderen.";
+
+// Please try to match what Apple does else where in the system.
+"SETTINGS" = "Instellingen";
+
+"MARKET_PRICE_MODE" = "Alle prijzen worden weergegeven in de markt valuta.";
+
+// The `%@` represents where the currency code (i.e. "USD") will be inserted.
+"PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = ". Alle prijzen worden weergegeven in% @";
+
+// The `%@` represents where the time in words (i.e. "2 minutes") will be inserted. The time is will already be localized.
+"CURRENCY_LAST_UPDATED_FORMAT" = "Wisselkoersen bijgewerkt% @ geleden.";
+
+"CURRENCY" = "Valuta";
+"DISPLAY" = "Display";
+
+// Used to describe the primary currency.
+"PRIMARY" = "Primary";
+
+"ALWAYS_USE_PRIMARY" = "Gebruik altijd Primair";
+"Percentages" = "Percentages";
+"DECIMAL_PLACES" = "Decimalen";
+"HIDE_ARTWORK" = "Verberg Kunstwerk";
+
+// An informal welcome
+"WELCOME_TITLE" = "Hallo.";
+"WELCOME_MESSAGE" = "Aandelen helpt u bij het bijhouden van uw winsten en verliezen te houden Om te beginnen, voeg wat aandelen die je al hebt gekocht.".;
+
+// The word for "gains" in "WELCOME_MESSAGE". It will be highlighted in green. Be sure to only use this word once.
+"WELCOME_GAINS" = "winsten";
+
+// The word for "losses" in "WELCOME_MESSAGE". It will be highlighted in red. Be sure to only use this word once.
+"WELCOME_LOSSES" = "verliezen";
+
+"TUTORIAL_TOGGLE" = "Tik het totaal om te schakelen $ &%";
+"TUTORIAL_DETAILS" = "Tik een voorraad aan details te krijgen";
+
+"GAIN" = "Gain";
+"LOSS" = "Verlies";
+
+// Title for error alert.
+"STOP" = "Als klap";
+
+"ERROR_FAILED_TO_UPDATE" = "Kan voorraden updaten Zorg ervoor dat je verbonden bent met het internet.".;
+
+// The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Loss Today".
+"TODAY_FORMAT" = "% @ Vandaag";
+
+// The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Overall Today".
+"OVERALL_FORMAT" = "% @ Vandaag";
+
+"Total_value" = "Totale waarde";
+"TOTAL_GAIN" = "Total Gain";
+"TOTAL_LOSS" = "Total Loss";
+"CHANGE" = "Wijzigen";
+"INVESTMENT" = "Investment";
+"VALUE" = "Waarde";
