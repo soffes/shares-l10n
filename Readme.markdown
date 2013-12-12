@@ -17,6 +17,6 @@ Language             | Code      | Contributor
 English              | `en`      | [@soffes](https://github.com/soffes)
 Danish               | `da`      | [@matiasvad](https://github.com/matiasvad)
 French               | `fr`      | [@jpsim](https://github.com/jpsim)
-German               | `de`      | [@matiasvad](https://github.com/lmprht)
+German               | `de`      | [@lmprht](https://github.com/lmprht)
 Greek                | `el`      | [@ozzotto](https://github.com/ozzotto)
 Spanish (Spain)      | `es`      | [@pablo-merino](https://github.com/pablo-merino)
