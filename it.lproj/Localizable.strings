@@ -1,0 +1,82 @@
+/*
+  Localizable.strings
+  Shares
+
+  Created by Daniele Orrù on 12/12/13.
+  Copyright (c) 2013 Nothing Magical. All rights reserved.
+*/
+
+"ADD_SHARES" = "Aggiungi Azioni";
+
+// This is the placeholder for the stock symbol text field in the add screen
+"STOCK_PLACEHOLDER" = "STOCK";
+
+"ADD" = "Aggiungi";
+"ADD_HELP_MESSAGE" = "Aggiungi azioni per uno stock che hai comprato. Seleziona il simbolo dello stock, il numero di azioni che hai comprato, e il prezzo per cui le hai comprate. Il simbolo sarà verde se i dati sono validi.";
+
+// OK button for alert. Please try to match what Apple does else where in the system.
+"OK" = "OK";
+
+"SYMBOL" = "Simbolo";
+
+// Label for shares of stock. This is not used for the application name, so please translate it :)
+"SHARES" = "Azioni";
+
+"PRICE" = "Prezzo";
+"SWIPE_TO_REMOVE" = "Esegui uno swipe per rimuovere le azioni.";
+
+// Please try to match what Apple does else where in the system.
+"SETTINGS" = "Impostazioni";
+
+"MARKET_PRICE_MODE" = "Tutti i prezzi saranno visualizzati con la valuta usata dal mercato.";
+
+// The `%@` represents where the currency code (i.e. "USD") will be inserted.
+"PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = "Tutti i prezzi saranno visualizzati in %@.";
+
+// The `%@` represents where the time in words (i.e. "2 minutes") will be inserted. The time is will already be localized.
+"CURRENCY_LAST_UPDATED_FORMAT" = "Tassi di conversione aggiornati %@ fa.";
+
+"CURRENCY" = "Moneta";
+"DISPLAY" = "Visualizza";
+
+// Used to describe the primary currency.
+"PRIMARY" = "Primaria";
+
+"ALWAYS_USE_PRIMARY" = "Utilizza Sempre Primaria";
+"PERCENTAGES" = "Percentuali";
+"DECIMAL_PLACES" = "Posizione Decimali";
+"HIDE_ARTWORK" = "Nascondi Artwork";
+
+// An informal welcome
+"WELCOME_TITLE" = "Ciao.";
+"WELCOME_MESSAGE" = "Shares ti aiuterà a tenere traccia dei tuoi guadagni e perdite. Per cominciare, aggiungi le azioni che hai comprato.";
+
+// The word for "gains" in "WELCOME_MESSAGE". It will be highlighted in green. Be sure to only use this word once.
+"WELCOME_GAINS" = "guadagni";
+
+// The word for "losses" in "WELCOME_MESSAGE". It will be highlighted in red. Be sure to only use this word once.
+"WELCOME_LOSSES" = "perdite";
+
+"TUTORIAL_TOGGLE" = "Fai tap sul totale per invertire $ & %";
+"TUTORIAL_DETAILS" = "Fai tap su una stock per avere i dettagli";
+
+"GAIN" = "Guadagno";
+"LOSS" = "Perdita";
+
+// Title for error alert.
+"DARN" = "Maledizione";
+
+"ERROR_FAILED_TO_UPDATE" = "Errore nell'aggiornamento delle stocks. Assicurati di essere connesso a internet.";
+
+// The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Loss Today".
+"TODAY_FORMAT" = "%@ Oggi";
+
+// The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Overall Today".
+"OVERALL_FORMAT" = "%@ Oggi";
+
+"TOTAL_VALUE" = "Valore Totale";
+"TOTAL_GAIN" = "Guadagno Totale";
+"TOTAL_LOSS" = "Perdita Totale";
+"CHANGE" = "Cambia";
+"INVESTMENT" = "Investimento";
+"VALUE" = "Valore";
