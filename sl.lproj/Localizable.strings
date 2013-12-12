@@ -7,73 +7,37 @@
 */
 
 "ADD_SHARES" = "Dodaj delnice";
-
-// This is the placeholder for the stock symbol text field in the add screen
 "STOCK_PLACEHOLDER" = "DELNICA";
-
 "ADD" = "Dodaj";
 "ADD_HELP_MESSAGE" = "Add shares for a stock you’ve purchased. Enter the stock symbol, number of shares you purchased, and price you purchased them at. The symbol will turn green if it’s valid.";
-
-// OK button for alert. Please try to match what Apple does else where in the system.
 "OK" = "OK";
-
 "SYMBOL" = "Simbol";
-
-// Label for shares of stock. This is not used for the application name, so please translate it :)
 "SHARES" = "Delnice";
-
 "PRICE" = "Cena";
 "SWIPE_TO_REMOVE" = "Swipe to remove shares.";
-
-// Please try to match what Apple does else where in the system.
 "SETTINGS" = "Nastavitve";
-
 "MARKET_PRICE_MODE" = "All prices will be displayed in market currency.";
-
-// The `%@` represents where the currency code (i.e. "USD") will be inserted.
 "PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = "All prices will be displayed in %@.";
-
-// The `%@` represents where the time in words (i.e. "2 minutes") will be inserted. The time is will already be localized.
 "CURRENCY_LAST_UPDATED_FORMAT" = "Conversion rates updated %@ ago.";
-
 "CURRENCY" = "Valuta";
 "DISPLAY" = "Display";
-
-// Used to describe the primary currency.
 "PRIMARY" = "Primary";
-
 "ALWAYS_USE_PRIMARY" = "Always Use Primary";
 "PERCENTAGES" = "Odstotek";
 "DECIMAL_PLACES" = "Decimalna mesta";
 "HIDE_ARTWORK" = "Hide Artwork";
-
-// An informal welcome
 "WELCOME_TITLE" = "Zdravo";
 "WELCOME_MESSAGE" = "Shares helps you keep track of your gains and losses. To get started, add some shares that you’ve already purchased.";
-
-// The word for "gains" in "WELCOME_MESSAGE". It will be highlighted in green. Be sure to only use this word once.
 "WELCOME_GAINS" = "gains";
-
-// The word for "losses" in "WELCOME_MESSAGE". It will be highlighted in red. Be sure to only use this word once.
 "WELCOME_LOSSES" = "losses";
-
 "TUTORIAL_TOGGLE" = "Tap the total to toggle $ & %";
 "TUTORIAL_DETAILS" = "Tap a stock to get details";
-
 "GAIN" = "Dobiček";
 "LOSS" = "Izguba";
-
-// Title for error alert.
 "DARN" = "Napaka";
-
 "ERROR_FAILED_TO_UPDATE" = "Napaka pri pridobivanju podatkov. Preverite vašo internetno povezavo.";
-
-// The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Loss Today".
 "TODAY_FORMAT" = "%@ Today";
-
-// The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Overall Today".
 "OVERALL_FORMAT" = "%@ Today";
-
 "TOTAL_VALUE" = "Skupna vrednost";
 "TOTAL_GAIN" = "Skupen dobiček";
 "TOTAL_LOSS" = "Skupna izguba";

@@ -7,60 +7,37 @@
 */
 
 "ADD_SHARES" = "Aggiungi Azioni";
-
 "STOCK_PLACEHOLDER" = "AZIONI";
-
 "ADD" = "Aggiungi";
 "ADD_HELP_MESSAGE" = "Aggiungi azioni per i titoli che hai comprato. Inserisci il titolo, il numero di azioni che hai comprato ed il prezzo di acquisto. L'indicatore diventerà verde a seguito della validazione.i";
-
 "OK" = "OK";
-
 "SYMBOL" = "Simbolo";
-
 "SHARES" ="Azioni";
-
 "PRICE" = "Prezzo";
 "SWIPE_TO_REMOVE" = "Scorri per rimuovere le azioni.";
-
 "SETTINGS" = "Impostazioni";
-
 "MARKET_PRICE_MODE" = "Tutti i prezzi saranno visualizzati secondo la valuta del mercato.";
-
 "PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = "Tutti i prezzi saranno visualizzati in %@.";
-
 "CURRENCY_LAST_UPDATED_FORMAT" = "Il tasso di cabio è stato aggiornato  %@ fa.";
-
 "CURRENCY" = "Valuta";
 "DISPLAY" = "Display";
-
 "PRIMARY" = "Primario";
-
 "ALWAYS_USE_PRIMARY" = "Utilizza sempre il primario.";
 "PERCENTAGES" = "Percentuale";
 "DECIMAL_PLACES" = "Posizioni Decimali";
 "HIDE_ARTWORK" = "Nascondi Immagine";
-
 "WELCOME_TITLE" = "Benvenuto.";
 "WELCOME_MESSAGE" = "Shares ti aiuta a tener traccia i tuoi guadagni e le tue perdite. Per iniziare, aggiungi qualche azione che hai già comprato.";
-
 "WELCOME_GAINS" = "profitti";
-
 "WELCOME_LOSSES" = "perdite";
-
 "TUTORIAL_TOGGLE" = "Premi il totale per cambiare $ & %";
 "TUTORIAL_DETAILS" = "Premi su un titolo per ottenere informazioni";
-
 "GAIN" = "Profitto";
 "LOSS" = "Perdita";
-
 "DARN" = "Attenzione";
-
 "ERROR_FAILED_TO_UPDATE" = "Aggiornamento azioni fallito. Verifica la tua connessione ad Internet.";
-
 "TODAY_FORMAT" = "%@ Oggi";
-
 "OVERALL_FORMAT" = "%@ Oggi";
-
 "TOTAL_VALUE" = "Valore Totale";
 "TOTAL_GAIN" = "Guadagno Totale";
 "TOTAL_LOSS" = "Perdita Totale";

@@ -7,73 +7,37 @@
 */
 
 "ADD_SHARES" = "Ajouter des actions";
-
-// This is the placeholder for the stock symbol text field in the add screen
 "STOCK_PLACEHOLDER" = "STOCK";
-
 "ADD" = "Ajouter";
 "ADD_HELP_MESSAGE" = "Ajouter des actions pour un stock que vous avez acheté. Entrer le symbole du stock, le nombre d'actions que vous avez acheté et le coût auquel vous les avez achetés. Le symbole deviendra vert s'il est valide.";
-
-// OK button for alert. Please try to match what Apple does else where in the system.
 "OK" = "OK";
-
 "SYMBOL" = "Symbole";
-
-// Label for shares of stock. This is not used for the application name, so please translate it :)
 "SHARES" = "Actions";
-
 "PRICE" = "Coût";
 "SWIPE_TO_REMOVE" = "Glisser pour retirer des actions.";
-
-// Please try to match what Apple does else where in the system.
 "SETTINGS" = "Réglages";
-
 "MARKET_PRICE_MODE" = "Les coûts seront affichés dans la devise du marché.";
-
-// The `%@` represents where the currency code (i.e. "USD") will be inserted.
 "PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = "Les coûts seront affichés en %@.";
-
-// The `%@` represents where the time in words (i.e. "2 minutes") will be inserted. The time is will already be localized.
 "CURRENCY_LAST_UPDATED_FORMAT" = "Taux de conversion mis-à-jour il y a %@.";
-
 "CURRENCY" = "Devise";
 "DISPLAY" = "Afficher";
-
-// Used to describe the primary currency.
 "PRIMARY" = "Primaire";
-
 "ALWAYS_USE_PRIMARY" = "Toujours utiliser la devise primaire";
 "PERCENTAGES" = "Pourcentages";
 "DECIMAL_PLACES" = "Places décimales";
 "HIDE_ARTWORK" = "Masquer les images";
-
-// An informal welcome
 "WELCOME_TITLE" = "Salut.";
 "WELCOME_MESSAGE" = "Shares vous aide à rester au courant de vos gains et pertes. Pour commencer, ajoutez des actions que vous avez déjà acheté.";
-
-// The word for "gains" in "WELCOME_MESSAGE". It will be highlighted in green. Be sure to only use this word once.
 "WELCOME_GAINS" = "gains";
-
-// The word for "losses" in "WELCOME_MESSAGE". It will be highlighted in red. Be sure to only use this word once.
 "WELCOME_LOSSES" = "pertes";
-
 "TUTORIAL_TOGGLE" = "Tapper le total pour alterner entre $ et %";
 "TUTORIAL_DETAILS" = "Tapper un stock pour plus de renseignements";
-
 "GAIN" = "Gain";
 "LOSS" = "Perte";
-
-// Title for error alert.
 "DARN" = "Zut alors";
-
 "ERROR_FAILED_TO_UPDATE" = "Mise-à-jour des stocks ratée. Assurez-vous d'être connecté à l'Internet.";
-
-// The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Loss Today".
 "TODAY_FORMAT" = "%@ aujourd'hui";
-
-// The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Overall Today".
 "OVERALL_FORMAT" = "%@ aujourd'hui";
-
 "TOTAL_VALUE" = "Valeur totale";
 "TOTAL_GAIN" = "Gains totaux";
 "TOTAL_LOSS" = "Pertes totales";
