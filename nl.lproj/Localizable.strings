@@ -1,0 +1,61 @@
+"ADD_SHARES" = "Shares Toevoegen";
+
+"STOCK_PLACEHOLDER" = "AANDELEN";
+
+"ADD" = "Toevoegen";
+"ADD_HELP_MESSAGE" = "Voeg aandelen toe die je hebt gekocht. Voer het symbool van het aandeel in, het aantal aandelen en de prijs waarvoor je ze hebt gekocht. Het symbool wordt groen als de invoer correct is.";
+
+"OK" = "OK";
+
+"SYMBOL" = "Symbool";
+
+"SHARES" = "Aandelen";
+
+"PRICE" = "Prijs";
+"SWIPE_TO_REMOVE" = "Swipe om aandelen te verwijderen.";
+
+"SETTINGS" = "Instellingen";
+
+"MARKET_PRICE_MODE" = "Alle prijzen worden in de markt munt weergegeven.";
+
+"PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = "Alle prijzen worden weergegeven in %@.";
+
+"CURRENCY_LAST_UPDATED_FORMAT" = "De koers is %@ geleden bijgewerkt.";
+
+"CURRENCY" = "Valuta";
+"DISPLAY" = "Weergeven";
+
+"PRIMARY" = "Hoofdvaluta";
+
+"ALWAYS_USE_PRIMARY" = "Altijd de Hoofdvaluta Gebruiken";
+"PERCENTAGES" = "Percentages";
+"DECIMAL_PLACES" = "Aantal Decimalen";
+"HIDE_ARTWORK" = "Afbeeldingen Verbergen";
+
+"WELCOME_TITLE" = "Hoi.";
+"WELCOME_MESSAGE" = "Shares helpt je om op de hoogte te blijven van je winst en verliezen. Voeg een paar aandelen toe die je al in bezit hebt om te beginnen.";
+
+"WELCOME_GAINS" = "winst";
+
+"WELCOME_LOSSES" = "verliezen";
+
+"TUTORIAL_TOGGLE" = "Druk op het totaal om te wisselen tussen $ & %";
+"TUTORIAL_DETAILS" = "Druk op een aandel voor details";
+
+"GAIN" = "Winst";
+"LOSS" = "Verlies";
+
+"DARN" = "Potverdikkie";
+
+"ERROR_FAILED_TO_UPDATE" = "Het bijwerken van de aandelen is mislukt. Controleer of je bent verbonden met internet.";
+
+"TODAY_FORMAT" = "%@ Vandaag";
+
+"OVERALL_FORMAT" = "%@ Vandaag";
+
+"TOTAL_VALUE" = "Totale Waarde";
+"TOTAL_GAIN" = "Totale Winst";
+"TOTAL_LOSS" = "Totaal Verlies";
+"CHANGE" = "Verandering";
+"INVESTMENT" = "Investering";
+"VALUE" = "Waarde";
