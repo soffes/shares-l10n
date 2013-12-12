@@ -1,0 +1,46 @@
+/*
+  Localizeable.strings
+  Shares
+
+  Created by Sam Soffes on 12/12/13.
+  Copyright (c) 2013 Nothing Magical. All rights reserved.
+*/
+
+"ADD_SHARES" = "Aandelen toevoegen";
+"STOCK_PLACEHOLDER" = "voorraad";
+"ADD" = "Toevoegen";
+"ADD_HELP_MESSAGE" = "aandelen toevoegen voor een voorraad die je hebt gekocht Voer de voorraad symbool, het aantal aandelen dat u hebt aangeschaft, en prijs je ze bij Het symbool gekocht wordt groen als het geldig is...";
+"OK" = "OK";
+"SYMBOL" = "symbool";
+"Shares" = "Aandelen";
+"PRICE" = "Prijs";
+"SWIPE_TO_REMOVE" = "Swipe om aandelen te verwijderen.";
+"SETTINGS" = "Instellingen";
+"MARKET_PRICE_MODE" = "Alle prijzen worden weergegeven in de markt valuta.";
+"PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = ". Alle prijzen worden weergegeven in% @";
+"CURRENCY_LAST_UPDATED_FORMAT" = "Wisselkoersen bijgewerkt% @ geleden.";
+"CURRENCY" = "Valuta";
+"DISPLAY" = "Display";
+"PRIMARY" = "Primary";
+"ALWAYS_USE_PRIMARY" = "Gebruik altijd Primair";
+"Percentages" = "Percentages";
+"DECIMAL_PLACES" = "Decimalen";
+"HIDE_ARTWORK" = "Verberg Kunstwerk";
+"WELCOME_TITLE" = "Hallo.";
+"WELCOME_MESSAGE" = "Aandelen helpt u bij het bijhouden van uw winsten en verliezen te houden Om te beginnen, voeg wat aandelen die je al hebt gekocht.".;
+"WELCOME_GAINS" = "winsten";
+"WELCOME_LOSSES" = "verliezen";
+"TUTORIAL_TOGGLE" = "Tik het totaal om te schakelen $ &%";
+"TUTORIAL_DETAILS" = "Tik een voorraad aan details te krijgen";
+"GAIN" = "Gain";
+"LOSS" = "Verlies";
+"STOP" = "Als klap";
+"ERROR_FAILED_TO_UPDATE" = "Kan voorraden updaten Zorg ervoor dat je verbonden bent met het internet.".;
+"TODAY_FORMAT" = "% @ Vandaag";
+"OVERALL_FORMAT" = "% @ Vandaag";
+"TOTAL_VALUE" = "Totale waarde";
+"TOTAL_GAIN" = "Total Gain";
+"TOTAL_LOSS" = "Total Loss";
+"CHANGE" = "Wijzigen";
+"INVESTMENT" = "Investment";
+"VALUE" = "Waarde";
