@@ -6,64 +6,77 @@
   Copyright (c) 2013 Nothing Magical. All rights reserved.
 */
 
-"ADD_SHARES" = "Tilføj aktier";
+"ADD_SHARES" = "Aktien hinzufügen";
 
+// This is the placeholder for the stock symbol text field in the add screen
 "STOCK_PLACEHOLDER" = "AKTIE";
 
-"ADD" = "Tilføj";
-"ADD_HELP_MESSAGE" = "Tilføj aktier du har købt. Indtast aktie-symbolet, antallet af aktier og købsprisen. Aktie-symbolet bliver grønt hvis det er genkendt.";
+"ADD" = "Hinzufügen";
+"ADD_HELP_MESSAGE" = "Fügen Sie Aktien von einem erworbenen Anteil hinzu. Geben sie das Symbol der Aktie, die Anzahl der Aktien sowie den Preis an, zu dem Sie die Aktie erworben haben. Das Aktien-Symbol wird sich grün färben, wenn es gültig ist.";
 
+// OK button for alert. Please try to match what Apple does else where in the system.
 "OK" = "OK";
 
 "SYMBOL" = "Symbol";
 
-"SHARES" = "Aktier";
+// Label for shares of stock. This is not used for the application name, so please translate it :)
+"SHARES" = "Aktien";
 
-"PRICE" = "Pris";
-"SWIPE_TO_REMOVE" = "Swipe for at fjerne aktien";
+"PRICE" = "Preis";
+"SWIPE_TO_REMOVE" = "Streichen, um Aktien zu entfernen.";
 
-"SETTINGS" = "Indstillinger";
+// Please try to match what Apple does else where in the system.
+"SETTINGS" = "Einstellungen";
 
-"MARKET_PRICE_MODE" = "Alle priser bliver vist i markedets valuta.";
+"MARKET_PRICE_MODE" = "Alle Preise werden in der Markt-Währung angezeigt.";
 
-"PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = "Alle priser bliver vist i %@.";
+// The `%@` represents where the currency code (i.e. "USD") will be inserted.
+"PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = "All Preise werden in %@ angezeigt.";
 
-"CURRENCY_LAST_UPDATED_FORMAT" = "Valutakurser er opdateret for %@ siden.";
+// The `%@` represents where the time in words (i.e. "2 minutes") will be inserted. The time is will already be localized.
+"CURRENCY_LAST_UPDATED_FORMAT" = "Die Umrechnungskurse wurden vor %@ aktualisiert.";
 
-"CURRENCY" = "Valutakurser";
-"DISPLAY" = "Visning";
+"CURRENCY" = "Währung";
+"DISPLAY" = "Anzeige";
 
-"PRIMARY" = "Primær valuta";
+// Used to describe the primary currency.
+"PRIMARY" = "Hauptwährung";
 
-"ALWAYS_USE_PRIMARY" = "Benyt altid primær valuta";
-"PERCENTAGES" = "Procenter";
-"DECIMAL_PLACES" = "Komma placering";
-"HIDE_ARTWORK" = "Skjul billeder";
+"ALWAYS_USE_PRIMARY" = "Immer Hauptwährung nutzen";
+"PERCENTAGES" = "Prozentsätze";
+"DECIMAL_PLACES" = "Dezimalstellen";
+"HIDE_ARTWORK" = "Artwork ausblenden";
 
-"WELCOME_TITLE" = "Hejsa.";
-"WELCOME_MESSAGE" = "Shares hjælper dig med at holde styr på dine gevinster og tab. Tilføj nogle aktier for at komme i gang.";
+// An informal welcome
+"WELCOME_TITLE" = "Hi!";
+"WELCOME_MESSAGE" = "Shares hilft ihnen, den Überblick über Ihre Gewinne und Verluste zu behalten. Fügen Sie ein paar Aktien hinzu, die Sie bisher erworben haben, um loszulegen.";
 
-"WELCOME_GAINS" = "gevinster";
+// The word for "gains" in "WELCOME_MESSAGE". It will be highlighted in green. Be sure to only use this word once.
+"WELCOME_GAINS" = "Gewinne";
 
-"WELCOME_LOSSES" = "tab";
+// The word for "losses" in "WELCOME_MESSAGE". It will be highlighted in red. Be sure to only use this word once.
+"WELCOME_LOSSES" = "Verluste";
 
-"TUTORIAL_TOGGLE" = "Tryk på total for at skifte mellem $ & %";
-"TUTORIAL_DETAILS" = "Tryk på en aktie for at se detaljer";
+"TUTORIAL_TOGGLE" = "Tippen Sie, um $ & % zu togglen.";
+"TUTORIAL_DETAILS" = "Tippen Sie auf eine Aktie, um Details zu erhalten.";
 
-"GAIN" = "Gevinst";
-"LOSS" = "Tab";
+"GAIN" = "Gewinn";
+"LOSS" = "Verlust";
 
-"DARN" = "Sørens";
+// Title for error alert.
+"DARN" = "Fehler";
 
-"ERROR_FAILED_TO_UPDATE" = "Opdatering af aktier mislykkedes. Tjek at du er forbundet til internettet.";
+"ERROR_FAILED_TO_UPDATE" = "Die Aktualisierung ihrer Aktien ist fehlgeschlagen. Gehen Sie sicher, dass sie mit dem Internet verbunden sind.";
 
-"TODAY_FORMAT" = "%@ i dag";
+// The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Loss Today".
+"TODAY_FORMAT" = "Heutiger %@";
 
-"OVERALL_FORMAT" = "%@ i dag";
+// The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Overall Today".
+"OVERALL_FORMAT" = "%@ heute";
 
-"TOTAL_VALUE" = "Total værdi";
-"TOTAL_GAIN" = "Total gevinst";
-"TOTAL_LOSS" = "Total tab";
-"CHANGE" = "Ændring";
-"INVESTMENT" = "Investering";
-"VALUE" = "Værdi";
+"TOTAL_VALUE" = "Totaler Betrag";
+"TOTAL_GAIN" = "Gesamter Gewinn";
+"TOTAL_LOSS" = "Gesamter Verlust";
+"CHANGE" = "Wechsel";
+"INVESTMENT" = "Investition";
+"VALUE" = "Wert";
