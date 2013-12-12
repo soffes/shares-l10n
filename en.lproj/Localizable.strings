@@ -6,13 +6,13 @@
   Copyright (c) 2013 Nothing Magical. All rights reserved.
 */
 
-"ADD_SHARES" = "Add Shares";
+"ADD_SHARES" = "Aktien hinzufügen";
 
 // This is the placeholder for the stock symbol text field in the add screen
-"STOCK_PLACEHOLDER" = "STOCK";
+"STOCK_PLACEHOLDER" = "AKTIE";
 
-"ADD" = "Add";
-"ADD_HELP_MESSAGE" = "Add shares for a stock you’ve purchased. Enter the stock symbol, number of shares you purchased, and price you purchased them at. The symbol will turn green if it’s valid.";
+"ADD" = "Hinzufügen";
+"ADD_HELP_MESSAGE" = "Fügen Sie Aktien von einem erworbenen Anteil hinzu. Geben sie das Symbol der Aktie, die Anzahl der Aktien sowie den Preis an, zu dem Sie die Aktie erworben haben. Das Aktien-Symbol wird sich grün färben, wenn es gültig ist.";
 
 // OK button for alert. Please try to match what Apple does else where in the system.
 "OK" = "OK";
@@ -20,63 +20,63 @@
 "SYMBOL" = "Symbol";
 
 // Label for shares of stock. This is not used for the application name, so please translate it :)
-"SHARES" = "Shares";
+"SHARES" = "Aktien";
 
-"PRICE" = "Price";
-"SWIPE_TO_REMOVE" = "Swipe to remove shares.";
+"PRICE" = "Preis";
+"SWIPE_TO_REMOVE" = "Streichen, um Aktien zu entfernen.";
 
 // Please try to match what Apple does else where in the system.
-"SETTINGS" = "Settings";
+"SETTINGS" = "Einstellungen";
 
-"MARKET_PRICE_MODE" = "All prices will be displayed in market currency.";
+"MARKET_PRICE_MODE" = "Alle Preise werden in der Markt-Währung angezeigt.";
 
 // The `%@` represents where the currency code (i.e. "USD") will be inserted.
-"PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = "All prices will be displayed in %@.";
+"PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = "All Preise werden in %@ angezeigt.";
 
 // The `%@` represents where the time in words (i.e. "2 minutes") will be inserted. The time is will already be localized.
-"CURRENCY_LAST_UPDATED_FORMAT" = "Conversion rates updated %@ ago.";
+"CURRENCY_LAST_UPDATED_FORMAT" = "Die Umrechnungskurse wurden vor %@ aktualisiert.";
 
-"CURRENCY" = "Currency";
-"DISPLAY" = "Display";
+"CURRENCY" = "Währung";
+"DISPLAY" = "Anzeige";
 
 // Used to describe the primary currency.
-"PRIMARY" = "Primary";
+"PRIMARY" = "Hauptwährung";
 
-"ALWAYS_USE_PRIMARY" = "Always Use Primary";
-"PERCENTAGES" = "Percentages";
-"DECIMAL_PLACES" = "Decimal Places";
-"HIDE_ARTWORK" = "Hide Artwork";
+"ALWAYS_USE_PRIMARY" = "Immer Hauptwährung nutzen";
+"PERCENTAGES" = "Prozentsätze";
+"DECIMAL_PLACES" = "Dezimalstellen";
+"HIDE_ARTWORK" = "Artwork ausblenden";
 
 // An informal welcome
-"WELCOME_TITLE" = "Hi there.";
-"WELCOME_MESSAGE" = "Shares helps you keep track of your gains and losses. To get started, add some shares that you’ve already purchased.";
+"WELCOME_TITLE" = "Hi!";
+"WELCOME_MESSAGE" = "Shares hilft ihnen, den Überblick über Ihre Gewinne und Verluste zu behalten. Fügen Sie ein paar Aktien hinzu, die Sie bisher erworben haben, um loszulegen.";
 
 // The word for "gains" in "WELCOME_MESSAGE". It will be highlighted in green. Be sure to only use this word once.
-"WELCOME_GAINS" = "gains";
+"WELCOME_GAINS" = "Gewinne";
 
 // The word for "losses" in "WELCOME_MESSAGE". It will be highlighted in red. Be sure to only use this word once.
-"WELCOME_LOSSES" = "losses";
+"WELCOME_LOSSES" = "Verluste";
 
-"TUTORIAL_TOGGLE" = "Tap the total to toggle $ & %";
-"TUTORIAL_DETAILS" = "Tap a stock to get details";
+"TUTORIAL_TOGGLE" = "Tippen Sie, um $ & % zu togglen.";
+"TUTORIAL_DETAILS" = "Tippen Sie auf eine Aktie, um Details zu erhalten.";
 
-"GAIN" = "Gain";
-"LOSS" = "Loss";
+"GAIN" = "Gewinn";
+"LOSS" = "Verlust";
 
 // Title for error alert.
-"DARN" = "Darn";
+"DARN" = "Fehler";
 
-"ERROR_FAILED_TO_UPDATE" = "Failed to update stocks. Be sure you’re connected to the internet.";
+"ERROR_FAILED_TO_UPDATE" = "Die Aktualisierung Ihrer Aktien ist fehlgeschlagen. Bitte prüfen Sie ihre Verbindung zum Internet.";
 
 // The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Loss Today".
-"TODAY_FORMAT" = "%@ Today";
+"TODAY_FORMAT" = "Heutiger %@";
 
 // The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Overall Today".
-"OVERALL_FORMAT" = "%@ Today";
+"OVERALL_FORMAT" = "%@ heute";
 
-"TOTAL_VALUE" = "Total Value";
-"TOTAL_GAIN" = "Total Gain";
-"TOTAL_LOSS" = "Total Loss";
-"CHANGE" = "Change";
-"INVESTMENT" = "Investment";
-"VALUE" = "Value";
+"TOTAL_VALUE" = "Totaler Betrag";
+"TOTAL_GAIN" = "Gesamter Gewinn";
+"TOTAL_LOSS" = "Gesamter Verlust";
+"CHANGE" = "Wechsel";
+"INVESTMENT" = "Investition";
+"VALUE" = "Wert";
