@@ -6,64 +6,64 @@
   Copyright (c) 2013 Nothing Magical. All rights reserved.
 */
 
-"ADD_SHARES" = "Tilføj aktier";
+"ADD_SHARES" = "Añadir acción";
 
-"STOCK_PLACEHOLDER" = "AKTIE";
+"STOCK_PLACEHOLDER" = "ACCIÓN";
 
-"ADD" = "Tilføj";
-"ADD_HELP_MESSAGE" = "Tilføj aktier du har købt. Indtast aktie-symbolet, antallet af aktier og købsprisen. Aktie-symbolet bliver grønt hvis det er genkendt.";
+"ADD" = "AÑADIR";
+"ADD_HELP_MESSAGE" = "Añade las acciones para la empresa que has comprado. Introduce el símbolo, el número de acciones y el precio a la que las has comprado. El simbolo se pondrá verde si es valido.";
 
 "OK" = "OK";
 
-"SYMBOL" = "Symbol";
+"SYMBOL" = "Simbolo";
 
-"SHARES" = "Aktier";
+"SHARES" = "Acciones";
 
-"PRICE" = "Pris";
-"SWIPE_TO_REMOVE" = "Swipe for at fjerne aktien";
+"PRICE" = "Precio";
+"SWIPE_TO_REMOVE" = "Deslizar para eliminar";
 
-"SETTINGS" = "Indstillinger";
+"SETTINGS" = "Ajustes";
 
-"MARKET_PRICE_MODE" = "Alle priser bliver vist i markedets valuta.";
+"MARKET_PRICE_MODE" = "Todos los precios se mostrarán en el precio de mercado.";
 
-"PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = "Alle priser bliver vist i %@.";
+"PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = "Todos los precios se mostrarán en %@.";
 
-"CURRENCY_LAST_UPDATED_FORMAT" = "Valutakurser er opdateret for %@ siden.";
+"CURRENCY_LAST_UPDATED_FORMAT" = "Los tipos de conversión se actualizaron hace %@.";
 
-"CURRENCY" = "Valutakurser";
-"DISPLAY" = "Visning";
+"CURRENCY" = "Moneda";
+"DISPLAY" = "Mostrar";
 
-"PRIMARY" = "Primær valuta";
+"PRIMARY" = "Principal";
 
-"ALWAYS_USE_PRIMARY" = "Benyt altid primær valuta";
-"PERCENTAGES" = "Procenter";
-"DECIMAL_PLACES" = "Komma placering";
-"HIDE_ARTWORK" = "Skjul billeder";
+"ALWAYS_USE_PRIMARY" = "Siempre usar la principal";
+"PERCENTAGES" = "Porcentajes";
+"DECIMAL_PLACES" = "Lugares decimales";
+"HIDE_ARTWORK" = "Ocultar arte";
 
-"WELCOME_TITLE" = "Hejsa.";
-"WELCOME_MESSAGE" = "Shares hjælper dig med at holde styr på dine gevinster og tab. Tilføj nogle aktier for at komme i gang.";
+"WELCOME_TITLE" = "Hola.";
+"WELCOME_MESSAGE" = "Shares te ayuda a llevar la cuenta de tus ganancias y perdidas. Para empezar, añade algunas acciones que hayas comprado";
 
-"WELCOME_GAINS" = "gevinster";
+"WELCOME_GAINS" = "ganancias";
 
-"WELCOME_LOSSES" = "tab";
+"WELCOME_LOSSES" = "perdidas";
 
-"TUTORIAL_TOGGLE" = "Tryk på total for at skifte mellem $ & %";
-"TUTORIAL_DETAILS" = "Tryk på en aktie for at se detaljer";
+"TUTORIAL_TOGGLE" = "Toca el total para cambiar $ & %";
+"TUTORIAL_DETAILS" = "Toca una empresa para ver los detalles";
 
-"GAIN" = "Gevinst";
-"LOSS" = "Tab";
+"GAIN" = "Ganancia";
+"LOSS" = "Perdida";
 
-"DARN" = "Sørens";
+"DARN" = "Vaya";
 
-"ERROR_FAILED_TO_UPDATE" = "Opdatering af aktier mislykkedes. Tjek at du er forbundet til internettet.";
+"ERROR_FAILED_TO_UPDATE" = "Error actualizando los precios. Estaté seguro de que estas conectado a Internet.";
 
-"TODAY_FORMAT" = "%@ i dag";
+"TODAY_FORMAT" = "%@ Hoy";
 
-"OVERALL_FORMAT" = "%@ i dag";
+"OVERALL_FORMAT" = "%@ Hoy";
 
-"TOTAL_VALUE" = "Total værdi";
-"TOTAL_GAIN" = "Total gevinst";
-"TOTAL_LOSS" = "Total tab";
-"CHANGE" = "Ændring";
-"INVESTMENT" = "Investering";
-"VALUE" = "Værdi";
+"TOTAL_VALUE" = "Valor total";
+"TOTAL_GAIN" = "Ganancias totales";
+"TOTAL_LOSS" = "Perdidas totales";
+"CHANGE" = "Cambio";
+"INVESTMENT" = "Inversión";
+"VALUE" = "Valor";
