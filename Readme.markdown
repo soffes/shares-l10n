@@ -20,3 +20,4 @@ French               | `fr`      | [@jpsim](https://github.com/jpsim)
 German               | `de`      | [@matiasvad](https://github.com/lmprht)
 Greek                | `el`      | Othonas Antoniou
 Spanish (Spain)      | `es-ES`   | [@pablo-merino](https://github.com/pablo-merino)
+Russian              | `ru`      | [@irqed](https://github.com/irqed)
