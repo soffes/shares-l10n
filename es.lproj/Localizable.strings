@@ -15,7 +15,7 @@
 
 "OK" = "OK";
 
-"SYMBOL" = "Simbolo";
+"SYMBOL" = "Símbolo";
 
 "SHARES" = "Acciones";
 
@@ -63,7 +63,7 @@
 
 "TOTAL_VALUE" = "Valor total";
 "TOTAL_GAIN" = "Ganancias totales";
-"TOTAL_LOSS" = "Perdidas totales";
+"TOTAL_LOSS" = "Pérdidas totales";
 "CHANGE" = "Cambio";
 "INVESTMENT" = "Inversión";
 "VALUE" = "Valor";
