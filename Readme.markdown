@@ -15,3 +15,4 @@ If you'd like to help translate Shares in your language and currently have a cop
 Language             | Code      | Contributor
 ---------------------|-----------|------------
 English              | `en`      | [@soffes](https://github.com/soffes)
+Danish               | `da`      | [@matiasvad](https://github.com/matiasvad)
