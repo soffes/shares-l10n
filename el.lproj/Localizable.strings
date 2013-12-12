@@ -1,0 +1,82 @@
+/*
+  Localizeable.strings
+  Shares
+
+  Created by Sam Soffes on 12/12/13.
+  Copyright (c) 2013 Nothing Magical. All rights reserved.
+*/
+
+"ADD_SHARES" = "Προσθήκη Μετοχών";
+
+// This is the placeholder for the stock symbol text field in the add screen
+"STOCK_PLACEHOLDER" = "ΜΕΤΟΧΗ";
+
+"ADD" = "Προσθήκη";
+"ADD_HELP_MESSAGE" = "Πρόσθεσε μετοχές που έχεις αγοράσει. Συμπλήρωσε το σύμβολο της μετοχής, το πλήθος των μετοχών που αγόρασες και την τιμή στην οποία τις αγόρασες. Το σύμβολο θα γίνει πράσινο αν είναι έγκυρο.";
+
+// OK button for alert. Please try to match what Apple does else where in the system.
+"OK" = "OK";
+
+"SYMBOL" = "Σύμβολο";
+
+// Label for shares of stock. This is not used for the application name, so please translate it :)
+"SHARES" = "Μετοχές";
+
+"PRICE" = "Τιμή";
+"SWIPE_TO_REMOVE" = "Swipe για αφαίρεση μετοχών.";
+
+// Please try to match what Apple does else where in the system.
+"SETTINGS" = "Ρυθμίσεις";
+
+"MARKET_PRICE_MODE" = "Όλες οι τιμές θα προβάλλονται στο νόμισμα της αγοράς.";
+
+// The `%@` represents where the currency code (i.e. "USD") will be inserted.
+"PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = "Όλες οι τιμές θα προβάλλονται σε %@.";
+
+// The `%@` represents where the time in words (i.e. "2 minutes") will be inserted. The time is will already be localized.
+"CURRENCY_LAST_UPDATED_FORMAT" = "Ανανέωση ισοτιμιών πριν %@ .";
+
+"CURRENCY" = "Νόμισμα";
+"DISPLAY" = "Προβολή";
+
+// Used to describe the primary currency.
+"PRIMARY" = "Κύριο";
+
+"ALWAYS_USE_PRIMARY" = "Χρήση Κύριου Πάντα";
+"PERCENTAGES" = "Ποσοστά";
+"DECIMAL_PLACES" = "Δεκαδικά";
+"HIDE_ARTWORK" = "Απόκρυψη Artwork";
+
+// An informal welcome
+"WELCOME_TITLE" = "Γεια σου.";
+"WELCOME_MESSAGE" = "Το Shares σε βοηθά να παρακολουθείς τα κέρδη και τις απώλειές σου. Για να ξεκινήσεις, πρόσθεσε μερικές μετοχές που έχεις ήδη αγοράσει.";
+
+// The word for "gains" in "WELCOME_MESSAGE". It will be highlighted in green. Be sure to only use this word once.
+"WELCOME_GAINS" = "κέρδη";
+
+// The word for "losses" in "WELCOME_MESSAGE". It will be highlighted in red. Be sure to only use this word once.
+"WELCOME_LOSSES" = "απώλειες";
+
+"TUTORIAL_TOGGLE" = "Κάνε tap στο σύνολο για εναλλαγή $ & %";
+"TUTORIAL_DETAILS" = "Κάνε tap σε μία μετοχή για λεπτομέρειες";
+
+"GAIN" = "Κέρδος";
+"LOSS" = "Απώλεια";
+
+// Title for error alert.
+"DARN" = "Μπουμ";
+
+"ERROR_FAILED_TO_UPDATE" = "Αποτυχία ενημέρωσης των μετοχών. Βεβαιώσου ότι είσαι συνδεδεμένος στο internet.";
+
+// The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Loss Today".
+"TODAY_FORMAT" = "%@ Σήμερα";
+
+// The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Overall Today".
+"OVERALL_FORMAT" = "%@ Σήμερα";
+
+"TOTAL_VALUE" = "Συνολική Αξία";
+"TOTAL_GAIN" = "Συνολικό Κέρδος";
+"TOTAL_LOSS" = "Συνολική Απώλεια";
+"CHANGE" = "Αλλαγή";
+"INVESTMENT" = "Eπένδυση";
+"VALUE" = "Αξία";
