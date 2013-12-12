@@ -22,7 +22,7 @@
 // Label for shares of stock. This is not used for the application name, so please translate it :)
 "SHARES" = "Actions";
 
-"PRICE" = "Price";
+"PRICE" = "Coût";
 "SWIPE_TO_REMOVE" = "Glisser pour retirer des actions.";
 
 // Please try to match what Apple does else where in the system.
@@ -69,7 +69,7 @@
 "ERROR_FAILED_TO_UPDATE" = "Mise-à-jour des stocks ratée. Assurez-vous d'être connecté à l'Internet.";
 
 // The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Loss Today".
-"TODAY_FORMAT" = "%@ ajourd'hui";
+"TODAY_FORMAT" = "%@ aujourd'hui";
 
 // The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Overall Today".
 "OVERALL_FORMAT" = "%@ aujourd'hui";
