@@ -1,0 +1,46 @@
+/*
+  Localizeable.strings
+  Shares
+
+  Created by Sam Soffes on 12/12/13.
+  Copyright (c) 2013 Nothing Magical. All rights reserved.
+*/
+
+"ADD_SHARES" = "إضافة أسهم" ;
+"STOCK_PLACEHOLDER" = "رمز الشركة";
+"ADD" = "إضافة";
+"ADD_HELP_MESSAGE" = "أضف الأسهم التي قمت بشرائها. أدخل رمز الشركة، عدد الأسهم،  سعر الشراء، سوف يضيء الشعار باللون الاخضر اذا كان الإدخال صحيحاً";
+"OK" = "موافق";
+"SYMBOL" = "الشعار";
+"SHARES" = "الأسهم";
+"PRICE" = "السعر";
+"SWIPE_TO_REMOVE" = "مرر للحذف";
+"SETTINGS" = "الإعدادات";
+"MARKET_PRICE_MODE" = "كل الأسعار تظهر بحسب عملة السوق";
+"PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = "%@ كل الأسعر الظاهرة بـ ";
+"CURRENCY_LAST_UPDATED_FORMAT" = "أخر تحديث منذ %@";
+"CURRENCY" = "العملة";
+"DISPLAY" = "عرض";
+"PRIMARY" = "العملة الأساسية";
+"ALWAYS_USE_PRIMARY" = "دائماً إستخدم العملة الأساسية";
+"PERCENTAGES" = "النسبة";
+"DECIMAL_PLACES" = "الأعداد العشرية";
+"HIDE_ARTWORK" = "إخفاء المؤثرات";
+"WELCOME_TITLE" = "مرحباً";
+"WELCOME_MESSAGE" = "شيرز يساعدك في متابعة خسارتك وأرباحك، لتبدأ قم بإدخال الأسهم التي قمت بشرائها";
+"WELCOME_GAINS" = "أرباح";
+"WELCOME_LOSSES" = "خسائر";
+"TUTORIAL_TOGGLE" = "إضغط على المجموع للتبديل $ & %";
+"TUTORIAL_DETAILS" = " إضغط على السعم للتفاصيل";
+"GAIN" = "ربح";
+"LOSS" = "خسارة";
+"DARN" = "مشكلة";
+"ERROR_FAILED_TO_UPDATE" = "حصل خطاء أثناء التحديث، تأكد من إتصالك بالإنترنت";
+"TODAY_FORMAT" = "%@ اليوم";
+"OVERALL_FORMAT" = "%@ اليوم";
+"TOTAL_VALUE" = "القيمة الإجمالية";
+"TOTAL_GAIN" = "إجمالي الربح";
+"TOTAL_LOSS" = "إجمالي الخسارة";
+"CHANGE" = "التغير";
+"INVESTMENT" = "الإستثمار";
+"VALUE" = "القيمة";
