@@ -15,6 +15,7 @@ If you'd like to help translate Shares in your language and currently have a cop
 Language             | Code      | Contributor
 ---------------------|-----------|------------
 English              | `en`      | [@soffes](https://github.com/soffes)
+Dutch                | `nl`      | [@boyvanamstel](https://github.com/boyvanamstel)
 Danish               | `da`      | [@matiasvad](https://github.com/matiasvad)
 French               | `fr`      | [@jpsim](https://github.com/jpsim)
 German               | `de`      | [@matiasvad](https://github.com/lmprht)
