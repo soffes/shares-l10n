@@ -15,6 +15,7 @@ If you'd like to help translate Shares in your language and currently have a cop
 Language             | Code      | Contributor
 ---------------------|-----------|------------
 Arabic               | `ar`      | R7AL
+Czech                | `cs`      | [@dusi](https://github.com/dusi)
 Danish               | `da`      | [@matiasvad](https://github.com/matiasvad)
 Dutch                | `nl`      | [@afoketunji](https://github.com/afoketunji)
 English              | `en`      | [@soffes](https://github.com/soffes)
