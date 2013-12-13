@@ -1,0 +1,46 @@
+/*
+  Localizeable.strings
+  Shares
+
+  Created by Sam Soffes on 12/12/13.
+  Copyright (c) 2013 Nothing Magical. All rights reserved.
+*/
+
+"ADD_SHARES" = "Přidat akcie";
+"STOCK_PLACEHOLDER" = "Akcie";
+"ADD" = "Přidat";
+"ADD_HELP_MESSAGE" = "Přidat podíl z akcií, které jste zakoupili. Zadejte burzovní symbol, počet akcií, které jste si zakoupili, a cenu, za kterou jste je zakoupili. Symbol zezelená, pokud je vše v pořádku.";
+"OK" = "OK";
+"SYMBOL" = "Symbol";
+"SHARES" = "Akcie";
+"PRICE" = "Cena";
+"SWIPE_TO_REMOVE" = "Přejetím odstraníte akcie.";
+"SETTINGS" = "Nastavení";
+"MARKET_PRICE_MODE" = "Všechny ceny budou zobrazeny v měně daného trhu.";
+"PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = "Všechny ceny budou zobrazeny v %@.";
+"CURRENCY_LAST_UPDATED_FORMAT" = "Kurzy měn byly aktualizovány před %@.";
+"CURRENCY" = "Měna";
+"DISPLAY" = "Zobrazit";
+"PRIMARY" = "Primární";
+"ALWAYS_USE_PRIMARY" = "Vždy použít primární";
+"PERCENTAGES" = "Procenta";
+"DECIMAL_PLACES" = "Desetinná místa";
+"HIDE_ARTWORK" = "Skrýt grafiku";
+"WELCOME_TITLE" = "Vítejte.";
+"WELCOME_MESSAGE" = "Aplikace Shares vám pomůže udržet přehled zisků a ztrát. Začněte přidáním akcií, které jste si již zakoupili";
+"WELCOME_GAINS" = "zisků";
+"WELCOME_LOSSES" = "ztrát";
+"TUTORIAL_TOGGLE" = "Dotykem přepnete sumu $ & %";
+"TUTORIAL_DETAILS" = "Dotykem zobrazíte detail akcie";
+"GAIN" = "Zisk";
+"LOSS" = "Ztráta";
+"DARN" = "Ups";
+"ERROR_FAILED_TO_UPDATE" = "Nepodařilo se aktualizovat akcie. Ujistěte se, že jste připojeni k internetu.";
+"TODAY_FORMAT" = "Dnešní %@";
+"OVERALL_FORMAT" = "Dnešní %@";
+"TOTAL_VALUE" = "Celková hodnota";
+"TOTAL_GAIN" = "Celkový zisk";
+"TOTAL_LOSS" = "Celková ztráta";
+"CHANGE" = "Změna";
+"INVESTMENT" = "Investice";
+"VALUE" = "Hodnota";
