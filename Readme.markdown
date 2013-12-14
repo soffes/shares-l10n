@@ -14,7 +14,7 @@ If you'd like to help translate Shares in your language and don't have a copy, p
 
 Language             | Code      | Contributor
 ---------------------|-----------|------------
-Arabic               | `ar`      | R7AL
+Arabic               | `ar`      | [@r7al](https://github.com/r7al)
 Czech                | `cs`      | [@dusi](https://github.com/dusi)
 Danish               | `da`      | [@matiasvad](https://github.com/matiasvad)
 Dutch                | `nl`      | [@afoketunji](https://github.com/afoketunji)
