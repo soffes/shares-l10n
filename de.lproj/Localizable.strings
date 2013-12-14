@@ -9,7 +9,7 @@
 "ADD_SHARES" = "Aktien hinzufügen";
 "STOCK_PLACEHOLDER" = "AKTIE";
 "ADD" = "Hinzufügen";
-"ADD_HELP_MESSAGE" = "Fügen Sie Aktien von einem erworbenen Anteil hinzu. Geben sie das Symbol der Aktie, die Anzahl der Aktien sowie den Preis an, zu dem Sie die Aktie erworben haben. Das Aktien-Symbol wird sich grün färben, wenn es gültig ist.";
+"ADD_HELP_MESSAGE" = "Fügen Sie Aktien von einem erworbenen Anteil hinzu. Geben Sie das Symbol der Aktie, die Anzahl der Aktien sowie den Preis an, zu dem Sie selbige erworben haben. Das Aktien-Symbol wird sich grün färben, wenn es gültig ist.";
 "OK" = "OK";
 "SYMBOL" = "Symbol";
 "SHARES" = "Aktien";
@@ -17,7 +17,7 @@
 "SWIPE_TO_REMOVE" = "Streichen, um Aktien zu entfernen.";
 "SETTINGS" = "Einstellungen";
 "MARKET_PRICE_MODE" = "Alle Preise werden in der Markt-Währung angezeigt.";
-"PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = "All Preise werden in %@ angezeigt.";
+"PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = "Alle Preise werden in %@ angezeigt.";
 "CURRENCY_LAST_UPDATED_FORMAT" = "Die Umrechnungskurse wurden vor %@ aktualisiert.";
 "CURRENCY" = "Währung";
 "DISPLAY" = "Anzeige";
@@ -27,7 +27,7 @@
 "DECIMAL_PLACES" = "Dezimalstellen";
 "HIDE_ARTWORK" = "Grafik ausblenden";
 "WELCOME_TITLE" = "Hi!";
-"WELCOME_MESSAGE" = "Shares hilft Ihnen, den Überblick über Ihre Gewinne und Verluste zu behalten. Fügen Sie ein paar Aktien hinzu, die Sie bisher erworben haben, um loszulegen.";
+"WELCOME_MESSAGE" = "Shares hilft Ihnen, den Überblick über Ihre Gewinne und Verluste zu behalten. Fügen Sie ein paar ihrer bisher erworbenen Aktien hinzu, um loszulegen.";
 "WELCOME_GAINS" = "Gewinne";
 "WELCOME_LOSSES" = "Verluste";
 "TUTORIAL_TOGGLE" = "Tippen Sie, um $ & % zu togglen.";
@@ -35,7 +35,7 @@
 "GAIN" = "Gewinn";
 "LOSS" = "Verlust";
 "DARN" = "Mist";
-"ERROR_FAILED_TO_UPDATE" = "Die Aktualisierung Ihrer Aktien ist fehlgeschlagen. Gehen Sie sicher, dass sie mit dem Internet verbunden sind.";
+"ERROR_FAILED_TO_UPDATE" = "Die Aktualisierung Ihrer Aktien ist fehlgeschlagen. Bitte prüfen Sie Ihre Verbindung zum Internet.";
 "TODAY_FORMAT" = "Heutiger %@";
 "OVERALL_FORMAT" = "%@ heute";
 "TOTAL_VALUE" = "Totaler Betrag";
