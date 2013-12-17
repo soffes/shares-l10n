@@ -18,7 +18,7 @@
 "SETTINGS" = "Indstillinger";
 "MARKET_PRICE_MODE" = "Alle priser bliver vist i markedets valuta.";
 "PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = "Alle priser bliver vist i %@.";
-"CURRENCY_LAST_UPDATED_FORMAT" = "Valutakurser er opdateret for %@ siden.";
+"CURRENCY_LAST_UPDATED_FORMAT" = "Valutakurser er opdateret for %@ dage siden.";
 "CURRENCY" = "Valutakurser";
 "DISPLAY" = "Visning";
 "PRIMARY" = "Primær valuta";
@@ -37,7 +37,7 @@
 "DARN" = "Sørens";
 "ERROR_FAILED_TO_UPDATE" = "Opdatering af aktier mislykkedes. Tjek at du er forbundet til internettet.";
 "TODAY_FORMAT" = "%@ i dag";
-"OVERALL_FORMAT" = "%@ i dag";
+"OVERALL_FORMAT" = "%@ i alt";
 "TOTAL_VALUE" = "Total værdi";
 "TOTAL_GAIN" = "Total gevinst";
 "TOTAL_LOSS" = "Total tab";
