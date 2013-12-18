@@ -37,7 +37,7 @@
 "DARN" = "Napaka";
 "ERROR_FAILED_TO_UPDATE" = "Napaka pri pridobivanju podatkov. Preverite vašo internetno povezavo.";
 "TODAY_FORMAT" = "%@ danes";
-"OVERALL_FORMAT" = "%@ danes";
+"OVERALL_FORMAT" = "%@ skupaj";
 "TOTAL_VALUE" = "Skupna vrednost";
 "TOTAL_GAIN" = "Skupen dobiček";
 "TOTAL_LOSS" = "Skupna izguba";
