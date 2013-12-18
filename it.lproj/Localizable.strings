@@ -9,7 +9,7 @@
 "ADD_SHARES" = "Aggiungi Azioni";
 "STOCK_PLACEHOLDER" = "AZIONI";
 "ADD" = "Aggiungi";
-"ADD_HELP_MESSAGE" = "Aggiungi azioni per i titoli che hai comprato. Inserisci il titolo, il numero di azioni che hai comprato ed il prezzo di acquisto. L'indicatore diventerà verde a seguito della validazione.i";
+"ADD_HELP_MESSAGE" = "Aggiungi azioni per i titoli che hai comprato. Inserisci il titolo, il numero di azioni che hai comprato ed il prezzo di acquisto. L'indicatore diventerà verde a seguito della validazione.";
 "OK" = "OK";
 "SYMBOL" = "Simbolo";
 "SHARES" ="Azioni";
@@ -36,8 +36,8 @@
 "LOSS" = "Perdita";
 "DARN" = "Attenzione";
 "ERROR_FAILED_TO_UPDATE" = "Aggiornamento azioni fallito. Verifica la tua connessione ad Internet.";
-"TODAY_FORMAT" = "%@ Oggi";
-"OVERALL_FORMAT" = "%@ Oggi";
+"LOSS_TODAY" = "Perdite di oggi";
+"GAIN_TODAY" = "Profitti di oggi";
 "TOTAL_VALUE" = "Valore Totale";
 "TOTAL_GAIN" = "Guadagno Totale";
 "TOTAL_LOSS" = "Perdita Totale";
