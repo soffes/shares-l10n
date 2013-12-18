@@ -71,7 +71,7 @@
 // The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Loss Today".
 "TODAY_FORMAT" = "%@ Today";
 
-// The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Overall Today".
+// The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Overall Gain".
 "OVERALL_FORMAT" = "Overall %@";
 
 "TOTAL_VALUE" = "Total Value";
