@@ -36,8 +36,8 @@
 "LOSS" = "Perdas";
 "DARN" = "Droga";
 "ERROR_FAILED_TO_UPDATE" = "A atualização das ações falhou. Cheque a sua conexão à internet.";
-"TODAY_FORMAT" = "%@ Hoje";
-"OVERALL_FORMAT" = "%@ Hoje";
+"LOSS_TODAY" = "Perdas Hoje";
+"GAIN_TODAY" = "Ganhos Hoje";
 "TOTAL_VALUE" = "Valor Total";
 "TOTAL_GAIN" = "Ganhos Totais";
 "TOTAL_LOSS" = "Perdas Totais";
