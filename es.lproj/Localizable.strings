@@ -37,7 +37,7 @@
 "DARN" = "Vaya";
 "ERROR_FAILED_TO_UPDATE" = "Error actualizando los precios. Estaté seguro de que estas conectado a Internet.";
 "TODAY_FORMAT" = "%@ Hoy";
-"OVERALL_FORMAT" = "%@ Hoy";
+"OVERALL_FORMAT" = "%@ En total";
 "TOTAL_VALUE" = "Valor total";
 "TOTAL_GAIN" = "Ganancias totales";
 "TOTAL_LOSS" = "Pérdidas totales";
