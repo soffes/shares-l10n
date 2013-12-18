@@ -68,11 +68,17 @@
 
 "ERROR_FAILED_TO_UPDATE" = "Failed to update stocks. Be sure you’re connected to the internet.";
 
-// The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Loss Today".
-"TODAY_FORMAT" = "%@ Today";
+// Loss just today
+"LOSS_TODAY" = "Loss Today";
 
-// The `%@` will be replaced with the value of "GAIN" or "LOSS" so it will read something like "Overall Gain".
-"OVERALL_FORMAT" = "Overall %@";
+// Gain just today
+"GAIN_TODAY" = "Gain Today";
+
+// All time loss
+"OVERALL_LOSS" = "Overall Loss";
+
+// All time gain
+"OVERALL_GAIN" = "Overall Gain";
 
 "TOTAL_VALUE" = "Total Value";
 "TOTAL_GAIN" = "Total Gain";
