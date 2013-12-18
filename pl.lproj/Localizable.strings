@@ -6,7 +6,7 @@
   Copyright (c) 2013 Nothing Magical. All rights reserved.
 */
 
-"ADD_SHARES" = "Dodaj Akcje";
+"ADD_SHARES" = "Dodaj Akcję";
 "STOCK_PLACEHOLDER" = "Akcja";
 "ADD" = "Dodaj";
 "ADD_HELP_MESSAGE" = "Dodaj kupione akcje. Wprowadź symbol, ilość oraz cenę po jakiej zostały kupione. Jeżeli symbol jest poprawny, zmieni swój kolor na zielony.";
@@ -14,7 +14,7 @@
 "SYMBOL" = "Symbol";
 "SHARES" = "Akcje";
 "PRICE" = "Cena";
-"SWIPE_TO_REMOVE" = "Przeciągnij aby usunąć akcje.";
+"SWIPE_TO_REMOVE" = "Przeciągnij aby usunąć akcję.";
 "SETTINGS" = "Ustawienia";
 "MARKET_PRICE_MODE" = "Wszystkie ceny będą wyświetlane w walucie rynku.";
 "PRIMARY_CURRENCY_PRICE_MODE_FORMAT" = "Wszystkie ceny będą wyświetlane w %@.";
@@ -23,8 +23,8 @@
 "DISPLAY" = "Wyświetl";
 "PRIMARY" = "Podstawowa";
 "ALWAYS_USE_PRIMARY" = "Zawsze używaj podstawowej";
-"PERCENTAGES" = "Zmiana procenowa";
-"DECIMAL_PLACES" = "Wartości po przecinku";
+"PERCENTAGES" = "Zmiana procentowa";
+"DECIMAL_PLACES" = "Liczba miejsc po przecinku";
 "HIDE_ARTWORK" = "Ukryj grafikę";
 "WELCOME_TITLE" = "Witaj.";
 "WELCOME_MESSAGE" = "Shares pomaga Ci śledzić Twoje zyski i straty. Aby zacząć, dodaj kupione akcje.";
@@ -36,8 +36,8 @@
 "LOSS" = "Strata";
 "DARN" = "Ups";
 "ERROR_FAILED_TO_UPDATE" = "Nie udało się odświeżyć notowań. Upewnij się, że masz połączenie z internetem.";
-"TODAY_FORMAT" = "%@ dzisiaj";
-"OVERALL_FORMAT" = "%@ dzisiaj";
+"LOSS_TODAY" = "Dzisiejsza strata";
+"GAIN_TODAY" = "Dzisiejszy zysk";
 "TOTAL_VALUE" = "Wartość całkowita";
 "TOTAL_GAIN" = "Zysk całkowity";
 "TOTAL_LOSS" = "Strata całkowita";
