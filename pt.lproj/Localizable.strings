@@ -36,8 +36,8 @@
 "LOSS" = "Perdas";
 "DARN" = "Erro";
 "ERROR_FAILED_TO_UPDATE" = "A atualização das ações falhou. Verifique se está ligado à internet.";
-"TODAY_FORMAT" = "%@ Hoje";
-"OVERALL_FORMAT" = "%@ Hoje";
+"LOSS_TODAY" = "Perdas Hoje";
+"GAIN_TODAY" = "Ganhos Hoje";
 "TOTAL_VALUE" = "Valor Total";
 "TOTAL_GAIN" = "Ganhos Totais";
 "TOTAL_LOSS" = "Perdas Totais";
