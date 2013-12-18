@@ -38,8 +38,6 @@
 "ERROR_FAILED_TO_UPDATE" = "Error actualizando los precios. Estaté seguro de que estas conectado a Internet.";
 "LOSS_TODAY" = "Perdidas de hoy";
 "GAIN_TODAY" = "Ganancias de hoy";
-"OVERALL_LOSS" = "Perdidas totales";
-"OVERALL_GAIN" = "Ganancias totales";
 "TOTAL_VALUE" = "Valor total";
 "TOTAL_GAIN" = "Ganancias totales";
 "TOTAL_LOSS" = "Pérdidas totales";

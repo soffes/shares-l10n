@@ -38,8 +38,6 @@
 "ERROR_FAILED_TO_UPDATE" = "Napaka pri pridobivanju podatkov. Preverite vašo internetno povezavo.";
 "LOSS_TODAY" = "Dnevna izguba";
 "GAIN_TODAY" = "Dnevni dobiček";
-"OVERALL_LOSS" = "Skupna izguba";
-"OVERALL_GAIN" = "Skupni dobiček";
 "TOTAL_VALUE" = "Skupna vrednost";
 "TOTAL_GAIN" = "Skupni dobiček";
 "TOTAL_LOSS" = "Skupna izguba";
