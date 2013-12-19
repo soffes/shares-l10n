@@ -36,8 +36,8 @@
 "LOSS" = "خسارة";
 "DARN" = "مشكلة";
 "ERROR_FAILED_TO_UPDATE" = "حصل خطاء أثناء التحديث، تأكد من إتصالك بالإنترنت";
-"TODAY_FORMAT" = "%@ اليوم";
-"OVERALL_FORMAT" = "%@ اليوم";
+"GAIN_TODAY" = "ربح اليوم";
+"LOSS_TODAY" = "خسارة اليوم";
 "TOTAL_VALUE" = "القيمة الإجمالية";
 "TOTAL_GAIN" = "إجمالي الربح";
 "TOTAL_LOSS" = "إجمالي الخسارة";
