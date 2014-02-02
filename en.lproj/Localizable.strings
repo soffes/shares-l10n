@@ -3,7 +3,7 @@
   Shares
 
   Created by Sam Soffes on 12/12/13.
-  Copyright (c) 2013 Nothing Magical. All rights reserved.
+  Copyright (c) 2013-2014 Nothing Magical. All rights reserved.
 */
 
 "ADD_SHARES" = "Add Shares";
@@ -12,7 +12,7 @@
 "STOCK_PLACEHOLDER" = "STOCK";
 
 "ADD" = "Add";
-"ADD_HELP_MESSAGE" = "Add shares for a stock you’ve purchased. Enter the stock symbol, number of shares you purchased, and price you purchased them at. The symbol will turn green if it’s valid.";
+"ADD_HELP_MESSAGE" = "Add shares for a stock you’ve purchased. Enter the stock symbol, number of shares you purchased, and the price per share that you purchased them at. The symbol will turn green if it’s valid.";
 
 // OK button for alert. Please try to match what Apple does else where in the system.
 "OK" = "OK";
