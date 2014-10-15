@@ -41,6 +41,8 @@
 "TOTAL_VALUE" = "Totaler Betrag";
 "TOTAL_GAIN" = "Gesamter Gewinn";
 "TOTAL_LOSS" = "Gesamter Verlust";
+"LOSS_TODAY" = "Täglicher Verlust";
+"GAIN_TODAY" = "Täglicher Gewinn";
 "CHANGE" = "Wechsel";
 "INVESTMENT" = "Investition";
 "VALUE" = "Wert";
